@@ -1,0 +1,24 @@
+{
+  "id": "farm-monitoring",
+  "name": "Farm monitoring",
+  "category": "IoT / Agriculture",
+  "group": "Embedded & IoT",
+  "icon": "leaf",
+  "description": "Agricultural monitoring system using PIR, DHT11, soil moisture, DS18B20 sensors and Blynk app.",
+  "detail": "Uses soil moisture, temperature/humidity, and PIR sensing with a NodeMCU/ESP8266 and the Blynk app for remote agricultural monitoring.",
+  "stack": [
+    "NodeMCU/ESP8266",
+    "DHT11",
+    "Soil Sensor",
+    "PIR Sensor",
+    "Blynk"
+  ],
+  "status": "Completed",
+  "source": "https://reactportfolio-eosin.vercel.app/",
+  "image": "/projects/farm_monitoring.webp",
+  "url": "",
+  "liveUrl": "",
+  "award": "",
+  "featured": false,
+  "evidence": []
+}
